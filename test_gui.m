@@ -162,7 +162,6 @@ elseif level == 3
 elseif level == 4
     matrix = rand(5,5) > .2;
 end
-handles.dead = 1
    handles.speed = 1;
    handles.x = 4;
    handles.y = 4;
